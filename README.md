@@ -1,3 +1,3 @@
 # firstproj
 this is demo project
-this a kind of thing
+this a kind of thing.main project
